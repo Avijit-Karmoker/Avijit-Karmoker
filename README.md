@@ -16,6 +16,48 @@ Junior Web Developer
 
 # My Recent Projects-
 
+## Jenny's Portfolio – Personal Portfolio Website
+
+[Live link](https://jenny-portfolio.avijit-karmoker.top/) <br />
+Details: I designed and developed a personal portfolio website for Jenny, showcasing her projects, skills, and professional background. My responsibilities included creating a responsive and visually appealing user interface, implementing interactive elements to enhance user engagement, and ensuring optimal performance across various devices. I also integrated contact forms and social media links to facilitate seamless communication and networking opportunities.
+
+![Screenshot 2025-06-21 230736](https://github.com/user-attachments/assets/482897c4-30d7-4c00-b627-abb1818831d5)
+
+## My Smile – Hospital Website
+
+[Live link](https://my-smile.avijit-karmoker.top/) <br />
+Details: I developed a responsive hospital website for My Smile to enhance patient engagement and streamline access to medical services. My work involved designing a user-friendly interface for viewing hospital services, departments, and doctor profiles. I implemented appointment booking functionality, integrated contact and location details, and ensured the site performed smoothly across all devices to support both patients and healthcare staff effectively.
+
+![Screenshot 2025-06-21 231618](https://github.com/user-attachments/assets/a939853a-0316-4a82-8142-964bf8b9180a)
+
+## Zino Herbals – E-commerce Website
+
+[Live link](https://zino-harbals.avijit-karmoker.top/) <br />
+Details: I developed a responsive e-commerce platform for Zino Herbals, facilitating online sales of herbal products. My responsibilities included designing and implementing the user interface, integrating a secure shopping cart and checkout system, and ensuring mobile compatibility. I also managed backend development, setting up product databases, and implementing order processing workflows to streamline operations.
+
+![Screenshot 2025-06-21 231755](https://github.com/user-attachments/assets/408eacc0-2de8-4e8d-96e9-66be837e7a85)
+
+## Rhino – Corporate Website
+
+[Live link](https://rhino.avijit-karmoker.top/) <br />
+Details: I designed and developed the corporate website for Rhino, focusing on creating a professional and responsive platform to showcase the company's services and portfolio. My responsibilities included crafting an intuitive user interface, ensuring seamless navigation, and optimizing the site for performance across various devices. I also implemented backend functionalities to manage content efficiently, enhancing the company's online presence and accessibility.
+
+![Screenshot 2025-06-21 232202](https://github.com/user-attachments/assets/a794e7c2-c6de-492c-8f5a-4bad4c2bd24c)
+
+## MuscleUp – Fitness & Gym Website
+
+[Live link](https://muscleup.avijit-karmoker.top/) <br />
+Details: I developed a dynamic and responsive website for MuscleUp, a fitness and gym platform aimed at promoting health and wellness services. My responsibilities included designing an engaging user interface to showcase fitness programs, trainer profiles, and class schedules. I implemented features such as membership registration, contact forms, and integrated multimedia content to enhance user engagement. Ensuring optimal performance across various devices, I contributed to expanding the gym's online presence and accessibility.
+
+![Screenshot 2025-06-21 232405](https://github.com/user-attachments/assets/14d420b9-7a22-4d32-8ae1-edc7cc6f413b)
+
+## Jim's Portfolio – Personal Portfolio Website
+
+[Live link](https://jim-portfolio.avijit-karmoker.top/) <br />
+Details: I designed and developed a personal portfolio website for Jim, aimed at showcasing his projects, skills, and professional experiences. My responsibilities included creating a responsive and visually appealing user interface, implementing interactive elements to enhance user engagement, and ensuring optimal performance across various devices. I also integrated contact forms and social media links to facilitate seamless communication and networking opportunities.
+
+![Screenshot 2025-06-21 232624](https://github.com/user-attachments/assets/5645e1a7-a038-42f1-9997-7aeef25bc33d)
+
 
 ## Luxury-Hotel
 
