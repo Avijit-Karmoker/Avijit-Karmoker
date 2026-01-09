@@ -18,6 +18,13 @@ Junior Web Developer
 
 ## Jenny's Portfolio – Personal Portfolio Website
 
+[Live link](https://reliancetrimpark.com/) <br />
+Details: Built and completed a custom WordPress website for Reliance Trim Park Ltd., a garment accessories and packaging manufacturer. The site showcases the company’s services, products, mission & vision, team contact information, and gallery. I handled the full implementation, including responsive layout, custom page templates, product/service sections, contact forms, navigation, and overall UX improvements using WordPress and Elementor.
+
+![Screenshot 2025-06-21 230736](https://github.com/user-attachments/assets/482897c4-30d7-4c00-b627-abb1818831d5)
+
+## Jenny's Portfolio – Personal Portfolio Website
+
 [Live link](https://jenny-portfolio.avijit-karmoker.top/) <br />
 Details: I designed and developed a personal portfolio website for Jenny, showcasing her projects, skills, and professional background. My responsibilities included creating a responsive and visually appealing user interface, implementing interactive elements to enhance user engagement, and ensuring optimal performance across various devices. I also integrated contact forms and social media links to facilitate seamless communication and networking opportunities.
 
