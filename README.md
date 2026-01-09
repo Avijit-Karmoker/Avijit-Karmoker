@@ -16,12 +16,12 @@ Junior Web Developer
 
 # My Recent Projects-
 
-## Jenny's Portfolio – Personal Portfolio Website
+## Reliance Trim Park
 
 [Live link](https://reliancetrimpark.com/) <br />
 Details: Built and completed a custom WordPress website for Reliance Trim Park Ltd., a garment accessories and packaging manufacturer. The site showcases the company’s services, products, mission & vision, team contact information, and gallery. I handled the full implementation, including responsive layout, custom page templates, product/service sections, contact forms, navigation, and overall UX improvements using WordPress and Elementor.
 
-![Screenshot 2025-06-21 230736](https://github.com/user-attachments/assets/482897c4-30d7-4c00-b627-abb1818831d5)
+![Screenshot 2025-06-21 230736](https://github.com/user-attachments/assets/f17ce500-3679-464f-847d-b37c918ae6cd)
 
 ## Jenny's Portfolio – Personal Portfolio Website
 
@@ -102,7 +102,3 @@ Here I made a website with react and i use mongodb for store website products an
 
 ![Screenshot_3](https://user-images.githubusercontent.com/75359388/116699068-f9981d00-a9e6-11eb-9dd7-66e795d7e5a0.png)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avijit-Karmoker&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avijit-Karmoker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
